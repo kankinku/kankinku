@@ -1,5 +1,10 @@
 <div align="center">
-  <h3> Hanjun Kim (kankinku) </h3>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kankinku" height="110" />
+  <br/>
+  <h3> 한진우 (Hanjinu) </h3>
+</div>
+
+<div align="center">
   <p>Software Engineer | AI Enthusiast | Continuous Learner</p>
   <a href="mailto:hanjun.kim@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/kankinku"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -40,11 +45,6 @@
 - **University** (2020~)
 - **Award Name** (1st Place)
 - **Role** @Organization
-
-<br/>
-
-### 📈 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kankinku&show_icons=true&theme=minimal&hide_border=true&count_private=true&hide_title=true" height="110" />
 
 </td>
 </tr>
