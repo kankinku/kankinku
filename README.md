@@ -35,16 +35,19 @@
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 <br/>
 
 ### 🏆 Activity
-- **University** (2020~)
-- **Award Name** (1st Place)
-- **Role** @Organization
+- **University** (2020.03~2026.02)
+- 빅데이터 분석 기반 비즈니스 개발자 양성과정 수료 (2025.03~2025.09)
+- (한국수자원공사)정수장 맞춤형 챗봇 연구 및 개발 (2025.08.05~2025.10.31)
+- 세종 DX해커톤 대회 대상 (세종시장상 2025.8.2)
+- 산학연계 뉴노멀 프로젝트 (2025.03.01~2025.11.30)
+- 교내 자기소개서 경진대회 우수상 (2025.12.19)
+- 2025 안산시 대학생 아이디어 공모전 장려상 (2025.11.27)
+- 
 
 </td>
 </tr>
