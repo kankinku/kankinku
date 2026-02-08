@@ -30,14 +30,16 @@
 > 사용자의 표정과 시선, 목소리 톤등의 정보를 통해서 사용자를 판단하고 점수화한다.
 > ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-</td>
-<td width="45%" valign="top">
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 <br/>
+
+</td>
+<td width="45%" valign="top">
+
 
 ### 🏆 Activity
 - **University** (2020.03~2026.02)
