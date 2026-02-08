@@ -15,7 +15,7 @@
 ### 🚀 Featured Projects
 
 > **[MakeChatBot](https://github.com/kankinku/chatBot)**
-> Brief description of the project.
+> 한국수자원공사 정수장 맞춤형 챗봇. 수질 데이터 조회 및 민원 응대 자동화 기능을 제공합니다.
 > ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 > **[hand tracking AI](https://github.com/kankinku/mobile_system)**
