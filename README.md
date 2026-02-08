@@ -18,7 +18,7 @@
 
 ### 🚀 Featured Projects
 
-> **[Project Name 1](https://github.com/kankinku/repo-name-1)**
+> **[MakeChatBot]((https://github.com/kankinku/chatBot))**
 > Brief description of the project.
 > ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
@@ -26,9 +26,6 @@
 > Solves problem X with Y.
 > ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
-> **[Project Name 3](https://github.com/kankinku/repo-name-3)**
-> Impactful metrics or result.
-> ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 </td>
 <td width="45%" valign="top">
