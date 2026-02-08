@@ -18,14 +18,17 @@
 
 ### 🚀 Featured Projects
 
-> **[MakeChatBot]((https://github.com/kankinku/chatBot))**
+> **[MakeChatBot]([https://github.com/kankinku/repo-name-3](https://github.com/kankinku/chatBot))**
 > Brief description of the project.
 > ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-> **[Project Name 2](https://github.com/kankinku/repo-name-2)**
-> Solves problem X with Y.
-> ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+> **[hand tracking AI]([https://github.com/kankinku/repo-name-2](https://github.com/kankinku/mobile_system))**
+> 라즈베리파이에 카메라를 연결하여, 카메라로 사용자의 손모양을 인식하여 지정되어있는 함수를 실행하는 프로젝트
+> ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+> **[AI interview]([[https://github.com/kankinku/repo-name-3](https://github.com/kankinku/mobile_system)](https://github.com/kankinku/ai_interview))**
+> 사용자의 표정과 시선, 목소리 톤등의 정보를 통해서 사용자를 판단하고 점수화한다.
+> ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 </td>
 <td width="45%" valign="top">
