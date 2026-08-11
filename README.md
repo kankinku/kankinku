@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjinu123" height="110" />
   <br/>
   <h3> 한진우 (Hanjinu) </h3>
 </div>
